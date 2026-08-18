@@ -2,7 +2,7 @@
 
 Landing page pessoal desenvolvida para apresentar minha trajetória acadêmica, conhecimentos e projetos na área de tecnologia.
 
-⇥ **Acesse minha página:** [Clique aqui](https://maryanaalves.github.io/maryanapage/index.html)
+⇥ **Acesse minha página (versão inicial):** [Clique aqui](https://maryanaalves.github.io/maryanapage/index.html)
 
 ## ★ Sobre o projeto
 
