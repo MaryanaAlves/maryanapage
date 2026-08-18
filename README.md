@@ -14,7 +14,6 @@ A página apresenta informações sobre minha formação em Engenharia de Softwa
 
 - HTML5
 - CSS3
-- JavaScript
 
 ## 🔗 Links
 
